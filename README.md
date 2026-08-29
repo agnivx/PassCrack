@@ -1,4 +1,4 @@
-# ⚡ PassCrack
+# PassCrack
 
 > A modern, hardware-accelerated password recovery & hash analysis GUI built with **Python**, **CustomTkinter**, and powered by **Hashcat**.
 
